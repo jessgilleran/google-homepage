@@ -1,0 +1,1 @@
+This code will generate a Google homepage look-a-like. 
