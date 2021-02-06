@@ -1,1 +1,1 @@
-This code will generate a Google homepage look-a-like. 
+This is my Google homepage look-a-like for The Odin Project Foundation course. 
